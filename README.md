@@ -1,6 +1,5 @@
 <p align="center">
 
-
 <p align="center">⛵<code>laravel-admin</code> is administrative interface builder for laravel which can help you build CRUD backends just with few lines of code.</p>
 
 <p align="center">
